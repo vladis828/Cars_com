@@ -1,0 +1,38 @@
+#navbar-background {
+  background-color: #4b0082;
+  height: 48px;
+}
+
+#navbar-buttons {
+  position: relative;
+  left: 30%;
+}
+
+#cardeal {
+  background-color: #ac39ac;
+  height: 32px;
+  text-align: center;
+}
+
+button {
+  margin-top: 1em;
+  margin-left: 20px;
+}
+
+a {
+  color: white;
+  position: relative;
+  top: 5px;
+}
+
+#logo {
+  position: absolute;
+  top: 2%;
+  left: 150px;
+  height: 65px;
+  width: 155px;
+}
+
+img {
+  width: 100%;
+}
